@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="71db27f7-dcaa-4e39-88c1-07c0a78fcfb3" />
+  <Project Path="Практическая работа 1/Практическая работа 1.csproj" Id="63f43880-b81d-4589-bb11-63f9bb8b7906" />
   <Project Path="Практическая работа №2.1/Практическая работа №2.1.csproj" Id="f5cf6702-da8c-4a4e-9f17-103acada3bb6" />
   <Project Path="Практическая работа №2.2/Практическая работа №2.2.csproj" />
   <Project Path="Практическая работа №2.3/Практическая работа №2.3.csproj" Id="ae292529-6da5-4c57-90b7-b1364da8d551" />
